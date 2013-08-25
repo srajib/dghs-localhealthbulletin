@@ -1,0 +1,9 @@
+<?php 
+	$pfx="_licts_";
+	$header=$pfx."head_foot/".$pfx."header.php";
+	$footer=$pfx."head_foot/".$pfx."footer.php";
+	$default=$pfx."template/".$pfx."default.php";
+	$error404=$pfx."error404.php";
+	$loginpage=$pfx."login.php";
+	$icd10="icd_10.php";
+?>
